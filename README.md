@@ -6,3 +6,8 @@ Follow the [instructions](https://github.com/LEARNAcademy/Syllabus/blob/master/t
 
 
 Make changes to this file here:
+
+Hello there! 
+Here are my changes. 
+
+Have a lovely Friday. 
